@@ -35,6 +35,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 # Запуск
 python main.py
+
+```
+# Руководство пользователя
+```
 ```
 <img width="921" height="711" alt="image" src="https://github.com/user-attachments/assets/5021f3a4-01d1-4634-b40b-29c19729af84" />
 
